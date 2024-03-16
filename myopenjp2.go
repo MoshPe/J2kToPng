@@ -1,4 +1,4 @@
-package J2kToPng
+package main
 
 // #cgo LDFLAGS: -lopenjp2 -lpng
 // #include "openjpeg-2.3/openjpeg.h"
